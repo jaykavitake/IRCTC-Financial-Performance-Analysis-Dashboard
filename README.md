@@ -103,7 +103,7 @@ This dashboard was built to answer the following key business questions:
 
 6.Expense Management: Despite revenue scaling significantly, expenses have grown at a slower rate, pointing to strong operational leverage.
 
-# Dashborad
+# Dashboard
 <img width="1857" height="656" alt="image" src="https://github.com/user-attachments/assets/c6d5b4f8-e1e4-4ecf-9358-07cb309b212c" />
 
 
