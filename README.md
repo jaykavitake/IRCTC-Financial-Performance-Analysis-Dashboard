@@ -10,3 +10,11 @@ This project marks a significant milestone in my Data Analytics journey, demonst
 # Dataset Description
 The dataset covers IRCTC's annual financial statements with the following key fields:
 FieldDescriptionYearFinancial year (Mar-2015 to Mar-2025)RevenueTotal revenue earned (in Crores)ExpensesTotal expenses incurred (in Crores)Net ProfitProfit after tax (in Crores)Other IncomeNon-operating income (in Crores)EPSEarnings Per ShareDividend %Dividend payout percentageOPM %Operating Profit Margin percentageTax %Effective tax rate percentage
+
+# DataSet Used
+-<a href="https://github.com/jaykavitake/IRCTC-Financial-Performance-Analysis-Dashboard/blob/main/IRCTC_DASHBOARD.xlsx"> DataSet Used</a>
+ The dataset is based on IRCTC's officially published annual financial
+statements spanning 10 fiscal years (FY2015 – FY2025). Each row
+represents one financial year and captures key income statement and
+valuation metrics. All monetary values are in ₹ Crores. The data was
+manually compiled and cleaned before analysis.
