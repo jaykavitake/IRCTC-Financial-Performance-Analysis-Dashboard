@@ -24,6 +24,18 @@ valuation metrics.
 
 All monetary values are in ₹ Crores. 
 
+# Dashboard Features
+
+ Dynamic Slicers — Filter data by year (Mar-2019 to Mar-2022 and beyond).
+
+ KPI Summary Cards — Instant view of Total Revenue, Total Expenses, Highest Net Profit, and Total Other Income.
+
+ Interactive Charts — All visuals update dynamically based on slicer selection.
+
+ Multi-sheet Structure — Organized into DATA, PIVOT_TABLE1, KPI's, DASHBOARD, and Colours tabs.
+
+ Clean Layout — Professional dark-navy colour theme for readability and visual impact.
+
 
 # Charts & Visualizations
 
@@ -92,8 +104,23 @@ This dashboard was built to answer the following key business questions:
 6.Expense Management: Despite revenue scaling significantly, expenses have grown at a slower rate, pointing to strong operational leverage.
 
 # Dashborad
-<img 
+<img width="1857" height="656" alt="image" src="https://github.com/user-attachments/assets/c6d5b4f8-e1e4-4ecf-9358-07cb309b212c" />
 
 
+# Final Conclusion
+This project gave me hands-on experience in working with real-world 
+financial data of a major Indian public sector company — IRCTC.
+
+Through this dashboard I learned that data analysis is not just about 
+making charts, it is about telling a story that helps people make 
+better decisions.
+
+
+
+# Feel free to connect with me:
+
+GitHub: <a href="https://github.com/jaykavitake"> https://github.com/jaykavitake</a>
+
+LinkedIn: <a href="https://www.linkedin.com/in/jay-kavitake-011a312b7/"> https://www.linkedin.com/in/jay-kavitake-011a312b7/ </a>
 
 
